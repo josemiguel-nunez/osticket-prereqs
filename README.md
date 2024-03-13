@@ -35,15 +35,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 Hello there, welcome to my first tutorial! The first thing we will do is create a Virtual Machine on Microsoft Azure.
-  
- <img src="https://i.imgur.com/OPaIGoN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://github.com/josemiguel-nunez/osticket-prereqs/assets/163205170/be10c319-e00f-4f88-a9ee-bf9a9df40e3b" height="80%" width="80%" />
+
 </p>
 <br />
 <p>
 </p>
-<p>Next simply connect to your newly created VM using RDP using the public IPv4 address. If you are a Mac user you will have to download Microsoft RDP. 
+<p>Next simply connect to your newly created Virtual Machine using Remote Desktop Connection using the public IPv4 address. If you are a Mac user you will have to download Microsoft RDP. 
 </p>
-<img src="https://i.imgur.com/uLVKzxS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/josemiguel-nunez/osticket-prereqs/assets/163205170/5f3b6982-2eb1-46bc-8531-cadb30fa264b" height="80%" width="80%" />
+"/>
 </p>
 <br />
 
@@ -52,13 +54,13 @@ Hello there, welcome to my first tutorial! The first thing we will do is create 
 <p>
 Alright, now that you are connected to your VM you will have to enable IIS. Simply access the control panel then select uninstall a program. Off to the left select "Turn windows features on or off". A list will appear then you will enable Internet Information Services.
 </p>  
-<img src="https://i.imgur.com/qtEnuWu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/josemiguel-nunez/osticket-prereqs/assets/163205170/adb5a3bb-f287-41a9-962c-84ba4f7f7e37" height="80%" width="80%" "/>
 </p>
 <br />
 </p>
 <p>
-Excellent. Now that you have enabled IIS we need to install Web Platform Installer. I have provided a link here: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
-  That link will provide you with all of the material you need to download to get osTicket up and running. Simply click the link and install the Web Platform Installer
+Now that you have enabled IIS we need to install Web Platform Installer. Downloadable file here: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+  That link will provide you with all of the material you need to download and get osTicket up and running. Simply click the link and install the Web Platform Installer
 </p>
 <img src="https://i.imgur.com/AxHCfQ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
