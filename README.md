@@ -1,6 +1,7 @@
 <p align="center">
 
-![image](https://github.com/josemiguel-nunez/osticket-prereqs/assets/163205170/e4b1a84a-fc7d-4829-ac3c-285010b2c885)
+<img src= "https://github.com/josemiguel-nunez/osticket-prereqs/assets/163205170/8fef7bdb-1d4e-49c6-a3df-5568bb1db650" height="80%" width="80%" />
+
 
 
 </p>
